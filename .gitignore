@@ -1,0 +1,5 @@
+cocos2d/
+proj.android/app/debug/Sevens-debug.apk
+proj.android/app/release/Sevens-release.apk
+proj.linux/
+proj.win32/
